@@ -30,7 +30,7 @@ we have saved the posts and comments in a database.
 we didn't  lose the data after refreshing the page.
 
 
-4- Register, and log in:
+4- Register, and log in.
 
 5- the static pages (About us, contact us, ...etc.).
 
@@ -58,8 +58,10 @@ can read and delete posts and comments
 
 Deliverables :
 
-1- Trello Board Link: https://trello.com/b/9n7tBfkF/redux-sport-score
+1- organaization repo : https://github.com/Project8-react-redux 
 
-2- Wireframe, and Mockup: https://www.figma.com/file/ZxipI4xmoG5puu2DMWH7JR/Redux?node-id=0%3A1&t=uLKxSPWr68xJfrQF-0
+2- Trello Board Link: https://trello.com/b/9n7tBfkF/redux-sport-score
+
+3- Wireframe, and Mockup: https://www.figma.com/file/ZxipI4xmoG5puu2DMWH7JR/Redux?node-id=0%3A1&t=uLKxSPWr68xJfrQF-0
 
 
